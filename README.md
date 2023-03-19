@@ -11,7 +11,9 @@ ________________________________________________________________________________
 
 3) Model selection notebook: GCCategorical_MS_AMD
 
-4) Transfer learning notebook: GCCategorical_TL_AMD
+4) Transfer learning notebook: GCCategorical_TL_AMD 
+
+5) Saved architecture and weights for Transfer Learning notebook: dnt.h5  
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Additional material, **not part of the project**
