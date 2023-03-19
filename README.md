@@ -5,7 +5,7 @@ In the uploaded PDF one can find the leitmotif linking the different notebooks.
 This project was quite challenging as it was my first approach with images and Convolutional Neural Networks. 
 _________________________________________________________________________________________________________________________________________________________________________
 
-1) Regression notebook: https://colab.research.google.com/drive/1mBLdqG8JVOPxDjQFGIOkibz6p2J_f471?usp=sharing
+1) Regression notebook: GCRegression_Model_AMD
 
 2) Base classification notebook: https://colab.research.google.com/drive/17vA9CEA2la9OX-KEdewVBiOfoYMwFq67?usp=sharing
 
