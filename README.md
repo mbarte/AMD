@@ -7,12 +7,13 @@ ________________________________________________________________________________
 
 1) Regression notebook: GCRegression_Model_AMD
 
-2) Base classification notebook: https://colab.research.google.com/drive/17vA9CEA2la9OX-KEdewVBiOfoYMwFq67?usp=sharing
+2) Base classification notebook: 
 
-3) Model selection notebook: https://colab.research.google.com/drive/1FqHhan2sQaTP7-WWPTWjBz4UKKYXbnHS?usp=sharing
+3) Model selection notebook: 
 
+4) Transfer learning notebook
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Additional material, not part of the project
 
--) Future works: binary classification: https://colab.research.google.com/drive/17hUz0vOGoZCKjPBN1tDagz3Jzi0bx74U?usp=sharing
+-) Future works: binary classification: 
