@@ -16,6 +16,3 @@ ________________________________________________________________________________
 5) Saved architecture and weights for Transfer Learning notebook: dnt.h5  
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Additional material, **not part of the project**
-
--) Attempts for future works: binary classification: GC_Binary_AMD
