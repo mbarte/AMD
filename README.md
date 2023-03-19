@@ -7,13 +7,13 @@ ________________________________________________________________________________
 
 1) Regression notebook: GCRegression_Model_AMD
 
-2) Base classification notebook: 
+2) Base classification notebook: GCCategorical_Framework_AMD
 
-3) Model selection notebook: 
+3) Model selection notebook: GCCategorical_MS_AMD
 
-4) Transfer learning notebook
+4) Transfer learning notebook: GCCategorical_TL_AMD
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Additional material, not part of the project
+Additional material, **not part of the project**
 
--) Future works: binary classification: 
+-) Attempts for future works: binary classification: GC_Binary_AMD
