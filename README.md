@@ -1,7 +1,7 @@
 # AMD
 Algorithms for massive datasets (DSE 2022/2023) project: **Galaxies classification with CNN**
 
-In the uploaded PDF one can find the leitmotif linking the different notebooks. 
+In the uploaded PDF (Galaxy_Classification_Report) one can find the leitmotif linking the different notebooks. 
 This project was quite challenging as it was my first approach with images and Convolutional Neural Networks. 
 _________________________________________________________________________________________________________________________________________________________________________
 
